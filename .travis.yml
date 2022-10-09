@@ -1,4 +1,4 @@
-# Continous Integration setup for SU222.
+# Continous Integration setup for SU.
 # Tests on the develop branch in both serial and parallel.
 
 dist: xenial
